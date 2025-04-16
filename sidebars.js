@@ -59,6 +59,10 @@ const sidebars = {
         'Working-with-Modules/Billing',
         'Working-with-Modules/Reports',
         'Working-with-Modules/Theater',
+        'Working-with-Modules/E-Claim',
+        'Working-with-Modules/Radiology',
+        'Working-with-Modules/Programs',
+        'Working-with-Modules/Laboratory',
   
       ],
     },
