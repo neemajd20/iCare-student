@@ -41,21 +41,7 @@ The **Postnatal** tab helps healthcare workers monitor the health of both mother
 - **Family Planning Counseling**
 
  **Figure 2**: *Postnatal care visit interface with mother and baby details*  
- *(Insert screenshot here)*
+ 
 
 
-
-##  Integrated Patient Journey
-
-Patients enrolled in Antenatal care can be seamlessly transitioned into the Postnatal program after delivery. This ensures continuity and completeness of maternal care records.
-
->  **Tip**: Always confirm delivery outcomes in the Antenatal tab to enable postnatal record linkage.
-
----
-
-##  Reporting & Monitoring
-
-- **Program Reports** by period, location, and service uptake
-- **Indicators** such as ANC coverage, postnatal attendance, and follow-up completion
-- Exportable data for public health reporting
 
