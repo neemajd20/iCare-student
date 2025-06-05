@@ -63,6 +63,7 @@ const sidebars = {
         'Working-with-Modules/Radiology',
         'Working-with-Modules/Programs',
         'Working-with-Modules/Laboratory',
+        'Working-with-Modules/Dispensing',
   
       ],
     },
